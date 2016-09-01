@@ -34,10 +34,8 @@ public class Person1 {
       if (input.length() < 2) {
         return input;
       }
-      StringBuilder res = new StringBuilder();
-      res.append(input.substring(2));
-      res.append(input.substring(0, 2);)
-	  return res.toString();
+      
+	  return input.substring(2) + input.substring(0, 2);
 	}
 	
 	/**
