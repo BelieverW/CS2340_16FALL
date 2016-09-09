@@ -31,7 +31,7 @@ public class Person2 {
 	 */
 	private String calc(String input) {
 	  //Person 2 put your implementation here
-		String temp;
+		String temp = "";
 		for (int i = 0; i < input.length(); i++) {
 			if (i % 2 == 0) {
 				temp = temp + input.charAt(i);
