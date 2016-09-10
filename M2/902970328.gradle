@@ -1,23 +1,5 @@
 apply plugin: 'java'
-<<<<<<< HEAD
 
-defaultTasks 'jar'
-
-sourceCompatibility = 1.8
-version = '1.0'
-
-jar {
-	manifest {
-		attributes 'Main-Class' : 'edu.gatech.oad.antlab.pkg1.AntLabMain'
-		attributes 'Class-Path' : '../../lib/resources.jar'
-	}
-}
-
-dependencies {
-	compile files('./lib/resources.jar')
-}
-
-=======
 defaultTasks 'jar'
 
 jar {
@@ -32,4 +14,3 @@ jar {
 dependencies {
     compile files('./lib/resources.jar')
 }
->>>>>>> BelieverW/master
