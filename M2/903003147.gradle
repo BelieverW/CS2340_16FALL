@@ -1,0 +1,18 @@
+apply plugin: 'java'
+
+defaultTasks 'jar'
+
+sourceCompatibility = 1.8
+
+
+jar {
+	manifest {
+		attributes 'Main-Class' : 'edu.gatech.oad.antlab.pkg1.AntLabMain'
+		attributes 'Class-Path' : '../../lib/resources.jar'
+	}
+}
+
+dependencies {
+	compile files('./lib/resources.jar')
+}
+
