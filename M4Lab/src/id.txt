@@ -1,0 +1,7 @@
+hwang630 123456 user
+linhanli 234567 worker
+yunlansun 345678 manager
+zichengliu 456789 user
+tongtongzhao 567891 user
+bobwaters 678912 administrator
+test  User
