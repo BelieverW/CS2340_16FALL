@@ -2,12 +2,13 @@ apply plugin: 'java'
 
 defaultTasks 'jar'
 
+sourceCompatibility = 1.8
+version = '1.0'
+
 jar {
     manifest {
         attributes 'Main-Class' : 'edu.gatech.oad.antlab.pkg1.AntLabMain'
         attributes 'Class-Path' : '../../lib/resources.jar'
-        attributes 'Implementation-Title': 'M2'
-        attributes 'Implementation-Version': 0.8
     }
 }
 
