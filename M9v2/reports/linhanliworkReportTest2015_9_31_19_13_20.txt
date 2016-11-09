@@ -1,0 +1,8 @@
+Report ID:00019
+UserName:linhanli
+Title:workReportTest
+Date:2015_9_31_19_13_20
+Location:44.5,-122.1
+WaterCondition:Unsafe
+VirusPPM:7.0
+ContaminantPPM:13.0

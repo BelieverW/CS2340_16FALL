@@ -1,0 +1,7 @@
+Report ID:00017
+UserName:robert
+Title:hala
+Date:2016_10_26_05_23_34
+Location:47.6597, -122.3357
+Type:Other
+Condition:Unknown

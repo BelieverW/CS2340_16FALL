@@ -1,0 +1,7 @@
+Report ID:00029
+UserName:robert
+Title:test1103
+Date:2016_11_01_16_53_12
+Location:47.6297,-122.3231
+Type:Stream
+Condition:Treatable-Clear

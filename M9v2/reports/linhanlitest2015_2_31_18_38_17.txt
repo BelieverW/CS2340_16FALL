@@ -1,0 +1,8 @@
+Report ID:00018
+UserName:linhanli
+Title:test
+Date:2015_2_31_18_38_17
+Location:47, -122
+WaterCondition:Safe
+VirusPPM:6
+ContaminantPPM:12

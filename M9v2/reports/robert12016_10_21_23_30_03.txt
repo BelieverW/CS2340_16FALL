@@ -1,0 +1,7 @@
+Report ID:00001
+UserName:robert
+Title:1
+Date:2016_10_21_23_30_03
+Location:47.6197,-122.3231
+Type:Other
+Condition:Unknown

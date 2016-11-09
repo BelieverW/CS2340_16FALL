@@ -1,0 +1,8 @@
+Report ID:00026
+UserName:robert
+Title:tstfinal
+Date:2016_10_31_20_38_05
+Location:47.6697,-122.3231
+WaterCondition:Treatable
+VirusPPM:2
+ContaminantPPM:1

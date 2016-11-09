@@ -1,0 +1,8 @@
+Report ID:00020
+UserName:linhanli
+Title:workerReportTest2
+Date:2016_7_31_19_15_51
+Location:47.61,-122.32
+WaterCondition:Unsafe
+VirusPPM:20.56
+ContaminantPPM:19.0

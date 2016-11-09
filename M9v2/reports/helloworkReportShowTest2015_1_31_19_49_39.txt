@@ -1,0 +1,8 @@
+Report ID:00021
+UserName:hello
+Title:workReportShowTest
+Date:2015_1_31_19_49_39
+Location:47.61,-122.7
+WaterCondition:Treatable
+VirusPPM:16.0
+ContaminantPPM:12.0

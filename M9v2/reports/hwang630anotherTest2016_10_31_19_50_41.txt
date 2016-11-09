@@ -1,0 +1,7 @@
+Report ID:00022
+UserName:hwang630
+Title:anotherTest
+Date:2016_10_31_19_50_41
+Location:47.61,-122.9
+Type:Bottled
+Condition:Potable

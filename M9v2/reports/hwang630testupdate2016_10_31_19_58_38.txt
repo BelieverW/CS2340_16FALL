@@ -1,0 +1,7 @@
+Report ID:00024
+UserName:hwang630
+Title:testupdate
+Date:2016_10_31_19_58_38
+Location:47.61,-122.326
+Type:Other
+Condition:Unknown

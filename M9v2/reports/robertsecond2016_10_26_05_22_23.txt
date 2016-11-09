@@ -1,0 +1,7 @@
+Report ID:00016
+UserName:robert
+Title:second
+Date:2016_10_26_05_22_23
+Location:47.6397, -121.3031
+Type:Lake
+Condition:Treatable-Clear

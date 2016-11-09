@@ -1,0 +1,8 @@
+Report ID:00015
+UserName:robert
+Title:test
+Date:2015_10_26_03_18_06
+Location:47.6497,-122.3325
+WaterCondition:Safe
+VirusPPM:10
+ContaminantPPM:15
