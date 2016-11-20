@@ -1,0 +1,7 @@
+Report ID:00061
+UserName:robert
+Title:sleep2
+Date:2016_11_16_02_32_28
+Location:47.6287,-122.3241
+Type:Lake
+Condition:Waste

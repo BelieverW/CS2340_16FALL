@@ -1,0 +1,7 @@
+Report ID:00055
+UserName:robert
+Title:user_today_test
+Date:2016_11_16_02_17_33
+Location:47.6277,-122.3241
+Type:Other
+Condition:Unknown

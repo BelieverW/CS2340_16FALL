@@ -1,0 +1,8 @@
+Report ID:00060
+UserName:robert
+Title:sleep1
+Date:2016_11_16_02_32_09
+Location:47.6297,-122.3321
+WaterCondition:Treatable
+VirusPPM:15
+ContaminantPPM:15

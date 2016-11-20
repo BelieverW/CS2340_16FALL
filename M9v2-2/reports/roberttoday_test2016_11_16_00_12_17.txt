@@ -1,0 +1,8 @@
+Report ID:00054
+UserName:robert
+Title:today_test
+Date:2016_11_16_00_12_17
+Location:47.6297,-122.3241
+WaterCondition:Treatable
+VirusPPM:12
+ContaminantPPM:12
